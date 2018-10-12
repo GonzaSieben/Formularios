@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Formularios</string>
+    <string name="activity_main_buscador">formualrio buscador</string>
+    <string name="activity_main_lista">formulario lista</string>
+    <string name="activity_main_login">formulario login</string>
+    <string name="activity_main_maps">formulario maps</string>
+</resources>
